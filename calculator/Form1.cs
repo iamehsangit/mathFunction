@@ -16,7 +16,7 @@ namespace calculator
         int number2;
         int total;
         string opt;
-
+        int alu = 0;
 
 
         private void btn2_Click(object sender, EventArgs e)
